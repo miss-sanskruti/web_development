@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="exp11_student.xsl"?>
+<students>
+    <student>
+        <name>Kedar</name>
+        <rollno>101</rollno>
+        <course>Computer Science</course>
+    </student>
+    <student>
+        <name>Riya</name>
+        <rollno>102</rollno>
+        <course>Information Technology</course>
+    </student>
+    <student>
+        <name>Amit</name>
+        <rollno>103</rollno>
+        <course>Electronics</course>
+    </student>
+</students>
